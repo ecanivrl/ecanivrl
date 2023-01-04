@@ -27,7 +27,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### 🛠 Languages and Tools :
 <p align="center">
-  <code><img title="C#" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/cSharp.svg"></code>
   <code><img title="JavaScript" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/javascript.svg"></code>
   <code><img title="TypeScript" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/typescript.svg"></code>
   <code><img title="HTML5" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/html5.svg"></code>
@@ -36,7 +35,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <code><img title="React" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/react-original.svg"></code>    
   <code><img title="Redux" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/redux.svg"></code>
   <code><img title="NextJS" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/next-js.svg"></code>
-  <code><img title="AngularJS" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/angularjs.png"></code>
 </p>
 
 ---
