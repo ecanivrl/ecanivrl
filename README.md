@@ -21,7 +21,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - ⚡ In my free time, I write articles on React.js and read tech articles.
 
-- 📫How to reach me: kadri503394@gmail.com
+- 📫How to reach me: kadrivarol1@gmail.com
 
 ---
 
